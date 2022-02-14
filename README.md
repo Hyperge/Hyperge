@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Hyperge fom Estonia
+- currently i am dealing with 3d printer firmware issues with my anycubic 4max 2.0. Also like to play with Arduinos
